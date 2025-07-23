@@ -1,0 +1,17 @@
+benign_dataset,malicious_dataset,mlp_accuracy,svm_accuracy
+writingprompts,advbench,0.99375,0.99375
+writingprompts,forbiddenquestions,0.967948717948718,0.9807692307692307
+writingprompts,maliciousinstruct,0.975,1.0
+writingprompts,harmbench,0.9125,0.975
+minervamath,advbench,0.9908256880733946,0.981651376146789
+minervamath,forbiddenquestions,0.9541284403669725,0.981651376146789
+minervamath,maliciousinstruct,0.95,0.95
+minervamath,harmbench,0.975,1.0
+simpleqa,advbench,0.9625,0.9125
+simpleqa,forbiddenquestions,0.9487179487179487,0.9230769230769231
+simpleqa,maliciousinstruct,1.0,1.0
+simpleqa,harmbench,0.975,0.95
+alpaca,advbench,0.9375,0.875
+alpaca,forbiddenquestions,0.9615384615384616,0.8846153846153846
+alpaca,maliciousinstruct,0.85,0.85
+alpaca,harmbench,0.9,0.8
